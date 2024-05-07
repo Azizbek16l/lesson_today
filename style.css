@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+html {
+    background-color: #0E46A3;
+}
+header {
+    margin-bottom: 15px;
+}
+.container {
+    margin: 0 auto;
+    width: 85%;
+
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.nav  {
+    list-style-type: none;
+    display: flex;
+    
+    justify-content: space-around;
+}
+.nav li a {
+    font-size: 23px;
+    color: #fff;
+    background-color: grey;
+    padding: 15px;
+    border-radius: 8px;
+    transition: all 0.3s;
+}
+
+.section-img {
+    margin-top: ;
+    width: 100%;
+}
